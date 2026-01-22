@@ -1,7 +1,5 @@
 #print hello world 
-<<<<<<< HEAD
 print("git pull command")
-=======
 print("Hello World")
 print("Test Test")
 
@@ -10,4 +8,4 @@ print("Text from github")
 
 #add text again from replit
 print("Text from replit")
->>>>>>> parent of 0cabdb9 (add_twofunction)
+parent of 0cabdb9 (add_twofunction)
